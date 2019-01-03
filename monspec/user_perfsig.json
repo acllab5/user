@@ -5,7 +5,7 @@
             "aggregation" : "avg",
             "tags" : "app:user,environment:dev",
             "upperLimit" : 3000,
-            "lowerLimit" : 2800
+            "lowerLimit" : 2801
         },
         {
             "timeseriesId" : "com.dynatrace.builtin:service.failurerate",
